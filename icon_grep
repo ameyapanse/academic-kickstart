@@ -1,0 +1,97 @@
+content/author/admin/_index.md:# Icon pack "fab" includes the following social network icons:
+content/author/admin/_index.md:#   For email icon, use "fas" icon pack, "envelope" icon, and
+content/author/admin/_index.md:#   Full list: https://fontawesome.com/icons
+content/author/admin/_index.md:# Icon pack "ai" includes the following academic icons:
+content/author/admin/_index.md:#   Full list: https://jpswalsh.github.io/academicons/
+content/author/admin/_index.md:  icon = "envelope"
+content/author/admin/_index.md:  icon_pack = "fas"
+content/author/admin/_index.md:# icon = "twitter"
+content/author/admin/_index.md:#  icon_pack = "fab"
+content/author/admin/_index.md:  icon = "linkedin"
+content/author/admin/_index.md:  icon_pack = "ai"
+content/author/admin/_index.md:  icon = "github"
+content/author/admin/_index.md:  icon_pack = "fab"
+content/author/admin/_index.md:#   icon = "cv"
+content/author/admin/_index.md:#   icon_pack = "ai"
+content/home/hero_carousel.md:  cta_icon_pack = "fas"
+content/home/hero_carousel.md:  cta_icon = "graduation-cap"
+themes/academic/archetypes/project/index.md:# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+themes/academic/data/assets.toml:[css.academicons]
+themes/academic/data/assets.toml:  url = "https://cdnjs.cloudflare.com/ajax/libs/academicons/%s/css/academicons.min.css"
+themes/academic/assets/js/academic.js:    // On search icon click toggle search dialog.
+themes/academic/static/site.webmanifest:    "icons": [{
+themes/academic/static/site.webmanifest:      "src": "img/icon.png",
+themes/academic/static/site.webmanifest:        "src": "img/icon-192.png",
+themes/academic/exampleSite/content/author/admin/_index.md:# Icon pack "fab" includes the following social network icons:
+themes/academic/exampleSite/content/author/admin/_index.md:#   For email icon, use "fas" icon pack, "envelope" icon, and
+themes/academic/exampleSite/content/author/admin/_index.md:#   Full list: https://fontawesome.com/icons
+themes/academic/exampleSite/content/author/admin/_index.md:# Icon pack "ai" includes the following academic icons:
+themes/academic/exampleSite/content/author/admin/_index.md:#   Full list: https://jpswalsh.github.io/academicons/
+themes/academic/exampleSite/content/author/admin/_index.md:  icon = "envelope"
+themes/academic/exampleSite/content/author/admin/_index.md:  icon_pack = "fas"
+themes/academic/exampleSite/content/author/admin/_index.md:  icon = "twitter"
+themes/academic/exampleSite/content/author/admin/_index.md:  icon_pack = "fab"
+themes/academic/exampleSite/content/author/admin/_index.md:  icon = "google-scholar"
+themes/academic/exampleSite/content/author/admin/_index.md:  icon_pack = "ai"
+themes/academic/exampleSite/content/author/admin/_index.md:  icon = "github"
+themes/academic/exampleSite/content/author/admin/_index.md:  icon_pack = "fab"
+themes/academic/exampleSite/content/author/admin/_index.md:#   icon = "cv"
+themes/academic/exampleSite/content/author/admin/_index.md:#   icon_pack = "ai"
+themes/academic/exampleSite/content/home/hero.md:  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+themes/academic/exampleSite/content/home/hero_carousel.md:  cta_icon_pack = "fas"
+themes/academic/exampleSite/content/home/hero_carousel.md:  cta_icon = "graduation-cap"
+themes/academic/exampleSite/content/home/skills.md:# Available icon packs and icons:
+themes/academic/exampleSite/content/home/skills.md:# * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
+themes/academic/exampleSite/content/home/skills.md:# * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
+themes/academic/exampleSite/content/home/skills.md:# * ai - academic icons (see https://jpswalsh.github.io/academicons/)
+themes/academic/exampleSite/content/home/skills.md:  icon = "r-project"
+themes/academic/exampleSite/content/home/skills.md:  icon_pack = "fab"
+themes/academic/exampleSite/content/home/skills.md:  icon = "chart-line"
+themes/academic/exampleSite/content/home/skills.md:  icon_pack = "fas"
+themes/academic/exampleSite/content/home/skills.md:  icon = "camera-retro"
+themes/academic/exampleSite/content/home/skills.md:  icon_pack = "fas"
+themes/academic/exampleSite/content/home/experience.md:  description = """Taught electronic engineering and researched semiconductor physics."""
+themes/academic/exampleSite/content/project/internal-project/index.md:url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+themes/academic/layouts/slides/baseof.html:  <link rel="icon" type="image/png" href="{{ "/img/icon.png" | relURL }}">
+themes/academic/layouts/slides/baseof.html:  <link rel="apple-touch-icon" type="image/png" href="{{ "/img/icon-192.png" | relURL }}">
+themes/academic/layouts/partials/footer_section.html:        <span class="button_icon">
+themes/academic/layouts/partials/css/academic.css:  position: relative; /* Required for search icon positioning. */
+themes/academic/layouts/partials/css/academic.css:  padding: 1rem 1rem 1rem 2rem; /* Wider left padding for search icon to fit in. */
+themes/academic/layouts/partials/css/academic.css:.featurette-icon {
+themes/academic/layouts/partials/css/academic.css:ul.network-icon {
+themes/academic/layouts/partials/css/academic.css:#profile .network-icon {
+themes/academic/layouts/partials/css/academic.css:.network-icon li {
+themes/academic/layouts/partials/css/academic.css:.network-icon li:last-of-type {
+themes/academic/layouts/partials/css/academic.css:.network-icon li:hover {
+themes/academic/layouts/partials/css/academic.css:.big-icon {
+themes/academic/layouts/partials/css/academic.css:.pub-icon {
+themes/academic/layouts/partials/css/academic.css:  margin-left: 3.14285714rem; /* Must be > `fa-2x` icon size. */
+themes/academic/layouts/partials/css/academic.css:  width: 2rem; /* Match `fa-2x` icon size. */
+themes/academic/layouts/partials/css/academic.css:  padding-top: 0.8rem; /* Align text with bottom of `fa-2x` icon. */
+themes/academic/layouts/partials/css/academic.css:.navbar-light .navbar-toggler .icon-bar {
+themes/academic/layouts/partials/css/academic.css:.dark .pub-icon {
+themes/academic/layouts/partials/project_li_simple.html:  <i class="far fa-copy pub-icon" aria-hidden="true"></i>
+themes/academic/layouts/partials/publication_li_simple.html:  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+themes/academic/layouts/partials/widgets/about.html:      <ul class="network-icon" aria-hidden="true">
+themes/academic/layouts/partials/widgets/about.html:        {{ $pack := or .icon_pack "fas" }}
+themes/academic/layouts/partials/widgets/about.html:            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+themes/academic/layouts/partials/widgets/hero_carousel.html:          {{ $pack := or .icon_pack "fa" }}
+themes/academic/layouts/partials/widgets/hero_carousel.html:              {{- with $item.cta_icon -}}<i class="{{ $pack }} {{ $pack }}-{{ . }}" style="padding-right: 10px;"></i>{{- end -}}
+themes/academic/layouts/partials/widgets/hero_carousel.html:    <span class="carousel-control-prev-icon"></span>
+themes/academic/layouts/partials/widgets/hero_carousel.html:    <span class="carousel-control-next-icon"></span>
+themes/academic/layouts/partials/widgets/featurette.html:  {{ $pack := or .icon_pack "fas" }}
+themes/academic/layouts/partials/widgets/featurette.html:    {{ with .icon }}<div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>{{ end }}
+themes/academic/layouts/partials/header.html:    {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.academicons.url $css.academicons.version) $css.academicons.sri | safeHTML }}
+themes/academic/layouts/partials/header.html:  <link rel="icon" type="image/png" href="{{ "/img/icon.png" | relURL }}">
+themes/academic/layouts/partials/header.html:  <link rel="apple-touch-icon" type="image/png" href="{{ "/img/icon-192.png" | relURL }}">
+themes/academic/layouts/partials/header.html:    {{ $og_image = "img/icon-192.png" | absURL }}
+themes/academic/layouts/partials/talk_li_simple.html:  <i class="fas fa-calendar-alt pub-icon" aria-hidden="true"></i>
+themes/academic/layouts/partials/publication_li_mla.html:  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+themes/academic/layouts/partials/page_author.html:    <ul class="network-icon" aria-hidden="true">
+themes/academic/layouts/partials/page_author.html:      {{ $pack := or .icon_pack "fas" }}
+themes/academic/layouts/partials/page_author.html:          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+themes/academic/layouts/partials/post_li_simple.html:  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
+themes/academic/layouts/partials/publication_li_apa.html:  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+themes/academic/layouts/partials/page_links.html:  {{ $pack := or .icon_pack "fas" }}
+themes/academic/layouts/partials/page_links.html:    {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
+Binary file .git/modules/themes/academic/index matches

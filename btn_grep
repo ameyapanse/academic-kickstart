@@ -1,0 +1,277 @@
+themes/academic/i18n/pt.yaml:- id: btn_details
+themes/academic/i18n/pt.yaml:- id: btn_pdf
+themes/academic/i18n/pt.yaml:- id: btn_slides
+themes/academic/i18n/pt.yaml:- id: btn_video
+themes/academic/i18n/pt.yaml:- id: btn_code
+themes/academic/i18n/pt.yaml:- id: btn_dataset
+themes/academic/i18n/pt.yaml:- id: btn_project
+themes/academic/i18n/tr.yaml:- id: btn_details
+themes/academic/i18n/tr.yaml:- id: btn_pdf
+themes/academic/i18n/tr.yaml:- id: btn_slides
+themes/academic/i18n/tr.yaml:- id: btn_video
+themes/academic/i18n/tr.yaml:- id: btn_code
+themes/academic/i18n/tr.yaml:- id: btn_dataset
+themes/academic/i18n/tr.yaml:- id: btn_project
+themes/academic/i18n/id.yaml:- id: btn_preprint
+themes/academic/i18n/id.yaml:- id: btn_pdf
+themes/academic/i18n/id.yaml:- id: btn_cite
+themes/academic/i18n/id.yaml:- id: btn_slides
+themes/academic/i18n/id.yaml:- id: btn_video
+themes/academic/i18n/id.yaml:- id: btn_code
+themes/academic/i18n/id.yaml:- id: btn_dataset
+themes/academic/i18n/id.yaml:- id: btn_project
+themes/academic/i18n/id.yaml:- id: btn_poster
+themes/academic/i18n/id.yaml:- id: btn_source
+themes/academic/i18n/id.yaml:- id: btn_copy
+themes/academic/i18n/id.yaml:- id: btn_download
+themes/academic/i18n/de.yaml:- id: btn_preprint
+themes/academic/i18n/de.yaml:- id: btn_pdf
+themes/academic/i18n/de.yaml:- id: btn_cite
+themes/academic/i18n/de.yaml:- id: btn_slides
+themes/academic/i18n/de.yaml:- id: btn_video
+themes/academic/i18n/de.yaml:- id: btn_code
+themes/academic/i18n/de.yaml:- id: btn_dataset
+themes/academic/i18n/de.yaml:- id: btn_project
+themes/academic/i18n/de.yaml:- id: btn_poster
+themes/academic/i18n/de.yaml:- id: btn_source
+themes/academic/i18n/de.yaml:- id: btn_copy
+themes/academic/i18n/de.yaml:- id: btn_download
+themes/academic/i18n/ru.yaml:- id: btn_details
+themes/academic/i18n/ru.yaml:- id: btn_pdf
+themes/academic/i18n/ru.yaml:- id: btn_slides
+themes/academic/i18n/ru.yaml:- id: btn_video
+themes/academic/i18n/ru.yaml:- id: btn_code
+themes/academic/i18n/ru.yaml:- id: btn_dataset
+themes/academic/i18n/ru.yaml:- id: btn_project
+themes/academic/i18n/ca.yaml:- id: btn_preprint
+themes/academic/i18n/ca.yaml:- id: btn_pdf
+themes/academic/i18n/ca.yaml:- id: btn_cite
+themes/academic/i18n/ca.yaml:- id: btn_slides
+themes/academic/i18n/ca.yaml:- id: btn_video
+themes/academic/i18n/ca.yaml:- id: btn_code
+themes/academic/i18n/ca.yaml:- id: btn_dataset
+themes/academic/i18n/ca.yaml:- id: btn_project
+themes/academic/i18n/ca.yaml:- id: btn_poster
+themes/academic/i18n/ca.yaml:- id: btn_source
+themes/academic/i18n/ca.yaml:- id: btn_copy
+themes/academic/i18n/ca.yaml:- id: btn_download
+themes/academic/i18n/zh.yaml:- id: btn_preprint
+themes/academic/i18n/zh.yaml:- id: btn_pdf
+themes/academic/i18n/zh.yaml:- id: btn_cite
+themes/academic/i18n/zh.yaml:- id: btn_slides
+themes/academic/i18n/zh.yaml:- id: btn_video
+themes/academic/i18n/zh.yaml:- id: btn_code
+themes/academic/i18n/zh.yaml:- id: btn_dataset
+themes/academic/i18n/zh.yaml:- id: btn_project
+themes/academic/i18n/zh.yaml:- id: btn_poster
+themes/academic/i18n/zh.yaml:- id: btn_source
+themes/academic/i18n/zh.yaml:- id: btn_copy
+themes/academic/i18n/zh.yaml:- id: btn_download
+themes/academic/i18n/nl.yaml:- id: btn_details
+themes/academic/i18n/nl.yaml:- id: btn_pdf
+themes/academic/i18n/nl.yaml:- id: btn_slides
+themes/academic/i18n/nl.yaml:- id: btn_video
+themes/academic/i18n/nl.yaml:- id: btn_code
+themes/academic/i18n/nl.yaml:- id: btn_dataset
+themes/academic/i18n/nl.yaml:- id: btn_project
+themes/academic/i18n/fr.yaml:- id: btn_preprint
+themes/academic/i18n/fr.yaml:- id: btn_pdf
+themes/academic/i18n/fr.yaml:- id: btn_cite
+themes/academic/i18n/fr.yaml:- id: btn_slides
+themes/academic/i18n/fr.yaml:- id: btn_video
+themes/academic/i18n/fr.yaml:- id: btn_code
+themes/academic/i18n/fr.yaml:- id: btn_dataset
+themes/academic/i18n/fr.yaml:- id: btn_project
+themes/academic/i18n/fr.yaml:- id: btn_poster
+themes/academic/i18n/fr.yaml:- id: btn_source
+themes/academic/i18n/fr.yaml:- id: btn_copy
+themes/academic/i18n/fr.yaml:- id: btn_download
+themes/academic/i18n/it.yaml:- id: btn_preprint
+themes/academic/i18n/it.yaml:- id: btn_pdf
+themes/academic/i18n/it.yaml:- id: btn_cite
+themes/academic/i18n/it.yaml:- id: btn_slides
+themes/academic/i18n/it.yaml:- id: btn_video
+themes/academic/i18n/it.yaml:- id: btn_code
+themes/academic/i18n/it.yaml:- id: btn_dataset
+themes/academic/i18n/it.yaml:- id: btn_project
+themes/academic/i18n/it.yaml:- id: btn_poster
+themes/academic/i18n/it.yaml:- id: btn_source
+themes/academic/i18n/it.yaml:- id: btn_copy
+themes/academic/i18n/it.yaml:- id: btn_download
+themes/academic/i18n/ko.yaml:- id: btn_details
+themes/academic/i18n/ko.yaml:- id: btn_pdf
+themes/academic/i18n/ko.yaml:- id: btn_slides
+themes/academic/i18n/ko.yaml:- id: btn_video
+themes/academic/i18n/ko.yaml:- id: btn_code
+themes/academic/i18n/ko.yaml:- id: btn_dataset
+themes/academic/i18n/ko.yaml:- id: btn_project
+themes/academic/i18n/hu.yaml:- id: btn_preprint
+themes/academic/i18n/hu.yaml:- id: btn_pdf
+themes/academic/i18n/hu.yaml:- id: btn_cite
+themes/academic/i18n/hu.yaml:- id: btn_slides
+themes/academic/i18n/hu.yaml:- id: btn_video
+themes/academic/i18n/hu.yaml:- id: btn_code
+themes/academic/i18n/hu.yaml:- id: btn_dataset
+themes/academic/i18n/hu.yaml:- id: btn_project
+themes/academic/i18n/hu.yaml:- id: btn_poster
+themes/academic/i18n/hu.yaml:- id: btn_source
+themes/academic/i18n/hu.yaml:- id: btn_copy
+themes/academic/i18n/hu.yaml:- id: btn_download
+themes/academic/i18n/pl.yaml:- id: btn_details
+themes/academic/i18n/pl.yaml:- id: btn_pdf
+themes/academic/i18n/pl.yaml:- id: btn_slides
+themes/academic/i18n/pl.yaml:- id: btn_video
+themes/academic/i18n/pl.yaml:- id: btn_code
+themes/academic/i18n/pl.yaml:- id: btn_dataset
+themes/academic/i18n/pl.yaml:- id: btn_project
+themes/academic/i18n/en.yaml:- id: btn_preprint
+themes/academic/i18n/en.yaml:- id: btn_pdf
+themes/academic/i18n/en.yaml:- id: btn_cite
+themes/academic/i18n/en.yaml:- id: btn_slides
+themes/academic/i18n/en.yaml:- id: btn_video
+themes/academic/i18n/en.yaml:- id: btn_code
+themes/academic/i18n/en.yaml:- id: btn_dataset
+themes/academic/i18n/en.yaml:- id: btn_project
+themes/academic/i18n/en.yaml:- id: btn_poster
+themes/academic/i18n/en.yaml:- id: btn_source
+themes/academic/i18n/en.yaml:- id: btn_copy
+themes/academic/i18n/en.yaml:- id: btn_download
+themes/academic/i18n/vi.yaml:- id: btn_preprint
+themes/academic/i18n/vi.yaml:- id: btn_pdf
+themes/academic/i18n/vi.yaml:- id: btn_cite
+themes/academic/i18n/vi.yaml:- id: btn_slides
+themes/academic/i18n/vi.yaml:- id: btn_video
+themes/academic/i18n/vi.yaml:- id: btn_code
+themes/academic/i18n/vi.yaml:- id: btn_dataset
+themes/academic/i18n/vi.yaml:- id: btn_project
+themes/academic/i18n/vi.yaml:- id: btn_poster
+themes/academic/i18n/vi.yaml:- id: btn_source
+themes/academic/i18n/vi.yaml:- id: btn_copy
+themes/academic/i18n/vi.yaml:- id: btn_download
+themes/academic/i18n/ja.yaml:- id: btn_preprint
+themes/academic/i18n/ja.yaml:- id: btn_pdf
+themes/academic/i18n/ja.yaml:- id: btn_cite
+themes/academic/i18n/ja.yaml:- id: btn_slides
+themes/academic/i18n/ja.yaml:- id: btn_video
+themes/academic/i18n/ja.yaml:- id: btn_code
+themes/academic/i18n/ja.yaml:- id: btn_dataset
+themes/academic/i18n/ja.yaml:- id: btn_project
+themes/academic/i18n/ja.yaml:- id: btn_poster
+themes/academic/i18n/ja.yaml:- id: btn_source
+themes/academic/i18n/ja.yaml:- id: btn_copy
+themes/academic/i18n/ja.yaml:- id: btn_download
+themes/academic/i18n/es.yaml:- id: btn_preprint
+themes/academic/i18n/es.yaml:- id: btn_pdf
+themes/academic/i18n/es.yaml:- id: btn_cite
+themes/academic/i18n/es.yaml:- id: btn_slides
+themes/academic/i18n/es.yaml:- id: btn_video
+themes/academic/i18n/es.yaml:- id: btn_code
+themes/academic/i18n/es.yaml:- id: btn_dataset
+themes/academic/i18n/es.yaml:- id: btn_project
+themes/academic/i18n/es.yaml:- id: btn_poster
+themes/academic/i18n/es.yaml:- id: btn_source
+themes/academic/i18n/es.yaml:- id: btn_copy
+themes/academic/i18n/es.yaml:- id: btn_download
+themes/academic/i18n/eu.yaml:- id: btn_details
+themes/academic/i18n/eu.yaml:- id: btn_pdf
+themes/academic/i18n/eu.yaml:- id: btn_slides
+themes/academic/i18n/eu.yaml:- id: btn_video
+themes/academic/i18n/eu.yaml:- id: btn_code
+themes/academic/i18n/eu.yaml:- id: btn_dataset
+themes/academic/i18n/eu.yaml:- id: btn_project
+themes/academic/i18n/el.yaml:- id: btn_preprint
+themes/academic/i18n/el.yaml:- id: btn_pdf
+themes/academic/i18n/el.yaml:- id: btn_cite
+themes/academic/i18n/el.yaml:- id: btn_slides
+themes/academic/i18n/el.yaml:- id: btn_video
+themes/academic/i18n/el.yaml:- id: btn_code
+themes/academic/i18n/el.yaml:- id: btn_dataset
+themes/academic/i18n/el.yaml:- id: btn_project
+themes/academic/i18n/el.yaml:- id: btn_poster
+themes/academic/i18n/el.yaml:- id: btn_source
+themes/academic/i18n/el.yaml:- id: btn_copy
+themes/academic/i18n/el.yaml:- id: btn_download
+themes/academic/assets/js/algolia-search.js:        showmoreButton: 'btn btn-outline-primary'
+themes/academic/layouts/partials/talk_li_stream.html:    <div class="btn-links">
+themes/academic/layouts/partials/css/academic.css:.hero-overlay .btn {
+themes/academic/layouts/partials/css/academic.css:.hero-overlay .btn-lg {
+themes/academic/layouts/partials/css/academic.css:.pub-list-item .btn-links {
+themes/academic/layouts/partials/css/academic.css:.btn {
+themes/academic/layouts/partials/css/academic.css:.btn-links .btn {
+themes/academic/layouts/partials/css/academic.css:.btn.btn-sm {
+themes/academic/layouts/partials/css/academic.css:.btn-primary {
+themes/academic/layouts/partials/css/academic.css:.btn-outline-primary {
+themes/academic/layouts/partials/css/academic.css:.btn-primary:hover,
+themes/academic/layouts/partials/css/academic.css:.btn-primary:active,
+themes/academic/layouts/partials/css/academic.css:.btn-primary.active,
+themes/academic/layouts/partials/css/academic.css:.btn-primary:visited,
+themes/academic/layouts/partials/css/academic.css:.open > .dropdown-toggle.btn-primary {
+themes/academic/layouts/partials/css/academic.css:.btn-outline-light:hover,
+themes/academic/layouts/partials/css/academic.css:.btn-outline-light:active,
+themes/academic/layouts/partials/css/academic.css:.btn-outline-light.active {
+themes/academic/layouts/partials/css/academic.css:.btn-outline-primary:not(:disabled):not(.disabled).active,
+themes/academic/layouts/partials/css/academic.css:.btn-outline-primary:not(:disabled):not(.disabled):active,
+themes/academic/layouts/partials/css/academic.css:.show > .btn-outline-primary.dropdown-toggle {
+themes/academic/layouts/partials/css/academic.css:.dark .btn-outline-primary:not(:disabled):not(.disabled).active,
+themes/academic/layouts/partials/css/academic.css:.dark .btn-outline-primary:not(:disabled):not(.disabled):active,
+themes/academic/layouts/partials/css/academic.css:.dark .show > .btn-outline-primary.dropdown-toggle {
+themes/academic/layouts/partials/css/academic.css:.btn-outline-primary:hover {
+themes/academic/layouts/partials/css/academic.css:.dark .btn-outline-primary:hover {
+themes/academic/layouts/partials/css/academic.css:.btn-toolbar .btn {
+themes/academic/layouts/partials/css/academic.css:.btn-toolbar .btn:first-child {
+themes/academic/layouts/partials/css/academic.css:.btn-toolbar .btn:last-child {
+themes/academic/layouts/partials/css/academic.css:.btn-toolbar .btn.btn-primary:hover,
+themes/academic/layouts/partials/css/academic.css:.btn-toolbar .btn.btn-primary:focus {
+themes/academic/layouts/partials/css/academic.css:.btn-toolbar .btn.btn-primary:active,
+themes/academic/layouts/partials/css/academic.css:.btn-toolbar .btn.btn-primary.active {
+themes/academic/layouts/partials/css/academic.css:.btn-primary:not(:disabled):not(.disabled).active:focus,
+themes/academic/layouts/partials/css/academic.css:.btn-primary:not(:disabled):not(.disabled):active:focus,
+themes/academic/layouts/partials/css/academic.css:.show > .btn-primary.dropdown-toggle:focus {
+themes/academic/layouts/partials/css/academic.css:.dark .btn-primary,
+themes/academic/layouts/partials/css/academic.css:.dark .btn.btn-primary.active {
+themes/academic/layouts/partials/talk_li_detailed.html:  <div class="btn-links">
+themes/academic/layouts/partials/widgets/hero.html:    <p><a href="{{ $page.Params.cta.url }}" class="btn btn-outline-light btn-lg">{{ $page.Params.cta.label | safeHTML}}</a></p>
+themes/academic/layouts/partials/widgets/hero_carousel.html:            <a href="{{ $item.cta_url }}" class="btn btn-outline-light btn-lg">
+themes/academic/layouts/partials/widgets/contact.html:        <button type="submit" class="btn btn-outline-primary px-3 py-2">{{ i18n "contact_send" | default "Send" }}</button>
+themes/academic/layouts/partials/widgets/projects.html:          <div class="btn-toolbar">
+themes/academic/layouts/partials/widgets/projects.html:            <div class="btn-group flex-wrap">
+themes/academic/layouts/partials/widgets/projects.html:                <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>
+themes/academic/layouts/partials/talk_li_simple.html:  <div class="btn-links">
+themes/academic/layouts/partials/project_li_showcase.html:      <div class="btn-links">
+themes/academic/layouts/partials/post_li_detailed.html:    <a href="{{ $post.RelPermalink }}" class="btn btn-outline-primary my-1">
+themes/academic/layouts/partials/page_links_div.html:<div class="btn-links mb-3">
+themes/academic/layouts/partials/page_links_div.html:  <a class="btn btn-outline-primary my-1" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
+themes/academic/layouts/partials/publication_li_detailed.html:  <div class="btn-links">
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_preprint" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_pdf" }}
+themes/academic/layouts/partials/page_links.html:<button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_cite" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_code" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_dataset" }}
+themes/academic/layouts/partials/page_links.html:  <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}">
+themes/academic/layouts/partials/page_links.html:    {{ i18n "btn_project" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_project" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_poster" }}
+themes/academic/layouts/partials/page_links.html:  <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}" target="_blank">
+themes/academic/layouts/partials/page_links.html:    {{ i18n "btn_slides" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_slides" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_video" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  {{ i18n "btn_source" }}
+themes/academic/layouts/partials/page_links.html:<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
+themes/academic/layouts/partials/page_links.html:  <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+themes/academic/layouts/partials/docs_sidebar.html:  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+themes/academic/layouts/partials/publication_li_stream.html:    <div class="btn-links">
+themes/academic/layouts/partials/footer_container.html:        <h5 class="modal-title">{{ i18n "btn_cite" }}</h5>
+themes/academic/layouts/partials/footer_container.html:        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+themes/academic/layouts/partials/footer_container.html:          <i class="fas fa-copy"></i> {{ i18n "btn_copy" }}
+themes/academic/layouts/partials/footer_container.html:        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+themes/academic/layouts/partials/footer_container.html:          <i class="fas fa-download"></i> {{ i18n "btn_download" }}

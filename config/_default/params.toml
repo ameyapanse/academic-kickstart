@@ -12,10 +12,10 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Research Engineer"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "ameya.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -61,14 +61,12 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "ameya.panse@gmail.com"
+  address = "Samsung R&D Institute, 2870, Phoenix Building, 4th Floor Bagmane Constellation Business Park, Outer Ring Rd, Doddanekundi, Marathahalli, Bengaluru"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """Monday 10:00 to 13:00<br>
-                    Wednesday 09:00 to 10:00<br>
-                    Otherwise email to book an appointment"""
-  phone = "888 888 88 88"
-  skype = "echo123"
+  office_hours = ""
+  phone = "+91-8438980917"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
