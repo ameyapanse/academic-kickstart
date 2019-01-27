@@ -6,7 +6,7 @@ widget = "publications_featured"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Featured Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -29,7 +29,5 @@ list_format = 1
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "1"
 +++
-https://chughtapan.github.io/
-http://ceur-ws.org/Vol-2173/paper9.pdf
